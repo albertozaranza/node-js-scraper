@@ -1,0 +1,61 @@
+{
+  "films": [
+    {
+      "room": " SALA 01 ",
+      "title": " HOMEM-ARANHA: LONGE DE CASA 2D (DUBLADO) ",
+      "others": [
+        { "schedule": " 14:30 " },
+        { "genre": " AVENTURA " },
+        { "censorship": " 10 ANOS " },
+        { "duration": " 2 HORA E 10 MIN " }
+      ],
+      "synopsis": [
+        null,
+        {
+          "text": "Peter Parker (Tom Holland) está em uma viagem de duas semanas pela Europa, ao lado de seus amigos de colégio, quando é surpreendido pela visita de Nick Fury (Samuel L. Jackson). Precisando de ajuda para enfrentar monstros nomeados como Elementais, Fury o convoca para lutar ao lado de Mysterio (Jake Gyllenhaal), um novo herói que afirma ter vindo de uma Terra paralela. Além da nova ameaça, Peter precisa lidar com a lacuna deixada por Tony Stark, que deixou para si seu óculos pessoal, com acesso a um sistema de inteligência artificial associado à Stark Industries."
+        },
+        null
+      ],
+      "image": "http://www.supermercadopinheiro.com.br/cache/com_zoo/images/1859982.jpg-r_1920_1080-f_jpg-q_x-xxyxx_c939aaec10815f175bcd6a9639f1fa45.jpg",
+      "video": "https://www.youtube.com/embed/6bpZXJgtYww"
+    },
+    {
+      "room": " SALA 01 ",
+      "title": " O REI LEÃO 2D (DUBLADO) ",
+      "others": [
+        { "schedule": " 17:30 e 20:00 " },
+        { "genre": " AVENTURA " },
+        { "censorship": " 10 ANOS " },
+        { "duration": " 1 HORA E 58 MIN " }
+      ],
+      "synopsis": [
+        null,
+        {
+          "text": "Simba (Donald Glover) é um jovem leão cujo destino é se tornar o rei da selva. Entretanto, uma armadilha elaborada por seu tio Scar (Chiwetel Ejiofor) faz com que Mufasa (James Earl Jones), o atual rei, morra ao tentar salvar o filhote. Consumido pela culpa, Simba deixa o reino rumo a um local distante, onde encontra amigos que o ensinam a mais uma vez ter prazer pela vida"
+        },
+        null
+      ],
+      "image": "http://www.supermercadopinheiro.com.br/cache/com_zoo/images/2901026.jpg-r_1920_1080-f_jpg-q_x-xxyxx_23e962235467f980780ac0c91f5b718e.jpg",
+      "video": "https://www.youtube.com/embed/--raHZYXXik"
+    },
+    {
+      "room": " SALA 02 ",
+      "title": " VELOZES & FURIOSOS: HOBBS & SHAW 3D (DUBLADO) ",
+      "others": [
+        { "schedule": " 14:30,17:30 e 20:00 " },
+        { "genre": " AÇÃO " },
+        { "censorship": " 10 ANOS " },
+        { "duration": " 2 HORAS E 16 MIN " }
+      ],
+      "synopsis": [
+        null,
+        {
+          "text": "Desde que se conheceram, em \"Velozes & Furiosos 7\", Luke Hobbs (Dwayne Johnson) e Deckard Shaw (Jason Statham) constantemente bateram de frente, não só por inicialmente estarem em lados opostos mas, especialmente, pela personalidade de cada um. Agora, a dupla precisa unir forças para enfrentar Brixton (Idris Elba), um anarquista alterado geneticamente que se tornou uma ameaça biológica global. Para tanto, eles contam com a ajuda de Hattie (Vanessa Kirby), irmã de Shaw, que é também agente do MI6, o serviço secreto britânico."
+        },
+        null
+      ],
+      "image": "http://www.supermercadopinheiro.com.br/cache/com_zoo/images/1616389.jpg-r_1920_1080-f_jpg-q_x-xxyxx_6e861c0ab23e5dbc73d9d2f8d49660f1.jpg",
+      "video": "https://www.youtube.com/embed/gPfosjHCY0I"
+    }
+  ]
+}
